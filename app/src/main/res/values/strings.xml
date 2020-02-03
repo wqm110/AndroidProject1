@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">simpletext</string>
+    <string name="action_settings">Settings</string>
+    <string name="steps">首先，请按照以下步骤设置工作区：
+
+在 Project 窗口中，依次打开 app > res > layout > activity_main.xml。
+要给 Layout Editor 留出空间，请隐藏 Project 窗口。为此，请依次选择 View > Tool Windows > Project，或直接点击 Android Studio 屏幕左侧的 Project 。
+如果您的编辑器显示 XML 源代码，请点击窗口底部的 Design 标签。
+点击 Select Design Surface ，然后选择 Blueprint。
+在 Layout Editor 工具栏中点击 Show ，并确保已勾选 Show All Constraints。
+确保 Autoconnect 处于关闭状态。当 Autoconnect 处于关闭状态时，工具栏中的提示会显示 Enable Autoconnection to Parent 。
+点击工具栏中的 Default Margins ，然后选择 16。如果需要，您可以稍后调整每个视图的外边距。
+点击工具栏中的 Device for Preview ，然后选择 5.5, 1440 × 2560, 560 dpi (Pixel XL)。
+您的 Layout Editor 现在如图 3 所示。</string>
+</resources>
