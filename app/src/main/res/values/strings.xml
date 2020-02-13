@@ -12,4 +12,14 @@
 点击工具栏中的 Default Margins ，然后选择 16。如果需要，您可以稍后调整每个视图的外边距。
 点击工具栏中的 Device for Preview ，然后选择 5.5, 1440 × 2560, 560 dpi (Pixel XL)。
 您的 Layout Editor 现在如图 3 所示。</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_fullscreen2">FullscreenActivity2</string>
+    <string name="title_activity_bottom_navigation">主页</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
